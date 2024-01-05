@@ -3,7 +3,7 @@ A brand new repo for my personal programs on specific problems.
 Designed to track my progress.
 Still uploading projects
 
-/*~~~~~J@P~!~Y@B!!!!~G@?!!!!!~?@Y!&@G?&B!!7!!!#GJ@5~~~~##!~!!!J@G~!~?@@7!!~B@?!!!!!~5@P~!~P@5~!~~!~~G@5!77Y@P??????##?@&J@P5&J?JJ?Y@&YYJJJJB@5JJYJB@BYYYYYYP@@YJJJP@GYYYYYB@@B5YJJJJJJJJJJJJJ???JPYJ??JJJJ
+~~~~~J@P~!~Y@B!!!!~G@?!!!!!~?@Y!&@G?&B!!7!!!#GJ@5~~~~##!~!!!J@G~!~?@@7!!~B@?!!!!!~5@P~!~P@5~!~~!~~G@5!77Y@P??????##?@&J@P5&J?JJ?Y@&YYJJJJB@5JJYJB@BYYYYYYP@@YJJJP@GYYYYYB@@B5YJJJJJJJJJJJJJ???JPYJ??JJJJ
 ~~!!~J@5~!!Y@B!!!!~G@?!!!7!~J@J~&@B7&G!!!!!!#GJ@5~~~!&B~!!!!?@P!!~?@@?!!!B@?!!!!!~5@G~!~P@Y~~~~~!~5@&BB##&#B#######B#&&&BB##BBBBGGGPPPPPPGPPPGPPGGGGGGGGPGGGPGPPPPPPPPPPPGPPPPPPPPPPPPPPPPB@BJY5@@&P&@PP
 ~~!!~J@P!!!J@B!!!!~5@J~!!7!~?@J~#@G7&P~!!!!!BPJ@J~~~7@5~!!!!Y@5!!!?@#7!!!G@?!!!7!!J@G!!!5@Y~~~!~~~Y@G!!!!!!!!!!!!!!!!7!!!!!!~!77!7!!7!!!777777??77777777777??????????????????77777777777775@B~~^#@B~B&!~
 ~~!77JBPY55PB#P5PPY5#G555PP55&G5#&G5&B5555P5BBB&5Y55P&PPGGPY#&PPPP5#B5555G&GPP5PPP5##PPPG&BGGGBBBBB#GPPPPPPGGGGPPGPPGGGPP5P55#5??JJ?JJJJJY5YYYYYJJYJJYJJJJJJ??????JJJJ???????????J????JJYJY@B~~~#@B~G&7~
@@ -55,4 +55,4 @@ Still uploading projects
 ~~!!!G@?~~~B@P^~~^J@#~~~~~^5&7#@B!#@!^~~^~#BP@G^~~^?@YB@G~!!!#@7~!7&@J~!~!B@5~~~!!7@#!~~7@G^~7!~:?&!B@YY@?^~~~^!@@J:^~#@Y^^^^^?@#@&!~~~?@@P~~~~~&BJ@J^^~~~^PG~P&~P@G:^^^^:B@G:^^:J@5^^^~~^#@7^^:G@#^^^^~
 ~!!~~G@7~~~G@P^~~^Y@#~^~~~^P&7#@B!#@!^~~^^#P5@P^~~^?@JB@P~!!~#&7~!!&@?~~~~B@J~~!!!!&#!~~?@G^~!!!:J&!B@YY@?^~~~^!@@?^^^B@Y^~~~^7&B@@!~~~7&@5~~~^7@GY@J^^~~~^PB~G#~P@G:^^~^:G@G^^^:J@B^^~~^^#@?:^:G@#^^^^!
 ~~~~^G&!~~~G@P^~~^J@#^^~^~^5@7B@B!#@?^^~^!&PP@P^~~^?@5#@5~~~!&&!~~!&&!~~~!#@?~~!!!!&#!~~J@P^~!~~^P#!#@J5@Y:~~~^!@@Y^~^B@5^~~~~7@#@&!~~~!&@Y~~~^?@PY@Y^^~~~^P#~G#~P@P:^^~~^G@P^~^^?@B^^~~~^#@7:^:P@#^^^^!
-~~~~~G#!~~~P@P^~~^J@#^^^^^^5@?B@B!#@?:^^^!&BP@G^~~^7@G#@J~~~!&&~~~!&@!~~~7&&!~~~!!7&B~~~Y@5^~!~~^G#!B@J5@Y:~~~~7@@J^^^P@5^~~~~~&#@&!^^^7@@5~~~^7@PY@5:^~~~^Y#~GB~P@P:^^~~^G@Y^~~^7@B^~~~^^#@7:^:P@#^^^^!*/
+~~~~~G#!~~~P@P^~~^J@#^^^^^^5@?B@B!#@?:^^^!&BP@G^~~^7@G#@J~~~!&&~~~!&@!~~~7&&!~~~!!7&B~~~Y@5^~!~~^G#!B@J5@Y:~~~~7@@J^^^P@5^~~~~~&#@&!^^^7@@5~~~^7@PY@5:^~~~^Y#~GB~P@P:^^~~^G@Y^~~^7@B^~~~^^#@7:^:P@#^^^^!
